@@ -7,6 +7,12 @@
 *.o
 *.obj
 
+# Compile dir
+**/build
+
+#vs code
+**/.vscode/*
+
 # Precompiled Headers
 *.gch
 *.pch
